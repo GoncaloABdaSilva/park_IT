@@ -2,7 +2,7 @@
 
 parl IT was a project developed in the second semester of 2023/2024, for the Mobile and Pervasive Computing Course in FCT NOVA.
 
-The group members are Bruno David (@BrunoDavidES), Gonçalo Cerveira (@GoncaloCerveira) and Gonçalo Silva (@GoncaloABdaSilva).
+The group members are Bruno David ([@BrunoDavidES](https://github.com/BrunoDavidES)), Gonçalo Cerveira ([@GoncaloCerveira](https://github.com/GoncaloCerveira)) and Gonçalo Silva ([@GoncaloABdaSilva](https://github.com/GoncaloABdaSilva)).
 The final grade was 18.6 out of 20.0.
 
 We implemented a parking lot management system for companies, designed to enhance the parking experience and ensure safety in the lot for all users. The developed system works as proof of concept.
