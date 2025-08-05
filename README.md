@@ -9,6 +9,7 @@ We implemented a parking lot management system for companies, designed to enhanc
 The system integrates ESP32 microcontrollers (C++) for managing environmental sensors (gas, temperature, humidity), controlling actuators (LEDs, buzzers), and handling RFID-based access control. A local web server (Python/Flask) routes HTTP communication between ESP32's and Firebase, and ensures system resilience with offline data caching. Firebase provides real-time cloud database, user authentication, and trigger-based synchronization. A Flutter mobile app enables user login, parking space reservation, and real-time monitoring of sensor data and system status through streams and UI updates.
 
 Front-End repository: https://github.com/BrunoDavidES/Frontend_park_IT
+
 Demonstrative videos: https://drive.google.com/drive/folders/1_QIB7fODKVsESPs6ju0_MadK-rw5igUR
 
 The report file (Final SCMU Report - park IT.pdf) explains the project in more detail.
