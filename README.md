@@ -1,6 +1,7 @@
 # park_IT
 
 parl IT was a project developed in the second semester of 2023/2024, for the Mobile and Pervasive Computing Course in FCT NOVA.
+
 The group members are Bruno David (@BrunoDavidES), Gonçalo Cerveira (@GoncaloCerveira) and Gonçalo Silva (@GoncaloABdaSilva).
 The final grade was 18.6 out of 20.0.
 
