@@ -11,6 +11,6 @@ The system integrates ESP32 microcontrollers (C++) for managing environmental se
 
 Front-End repository: https://github.com/BrunoDavidES/Frontend_park_IT
 
-Demonstrative videos: https://drive.google.com/drive/folders/1_QIB7fODKVsESPs6ju0_MadK-rw5igUR
+Demonstrative videos (in Portuguese): https://drive.google.com/drive/folders/1_QIB7fODKVsESPs6ju0_MadK-rw5igUR
 
 The report file (Final SCMU Report - park IT.pdf) explains the project in more detail.
